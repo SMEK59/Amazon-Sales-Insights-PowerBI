@@ -26,6 +26,8 @@ This dashboard provides an easy way to:
 
 ## 🖼️ Dashboard Preview
 
+## Overview Dashboard
 ![Image](https://github.com/user-attachments/assets/c4296f00-eba3-487d-914f-5a1d8d756bc8)
 
+## Product Analysis
 ![Image](https://github.com/user-attachments/assets/555b6652-72ea-47bb-90b2-f1d6a942aa53)
